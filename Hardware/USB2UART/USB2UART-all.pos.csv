@@ -1,0 +1,20 @@
+Designator,Footprint,Mid X,Mid Y,Ref X,Ref Y,Pad X,Pad Y,Layer,Rotation,Comment
+,,,,,,,,,,
+C1,C_0402_1005Metric,140.2000mm,-82.4000mm,,,,,top,180,100nF
+C2,C_0402_1005Metric,140.2000mm,-83.4000mm,,,,,top,180,1uF
+C3,C_0402_1005Metric,140.0500mm,-91.3000mm,,,,,top,180,100nF
+C4,C_0402_1005Metric,141.9000mm,-91.3000mm,,,,,top,180,100nF
+D1,D_SOD-323,146.0000mm,-82.9000mm,,,,,top,180,1N5819WS
+D2,LED_0603_1608Metric,144.4000mm,-86.8500mm,,,,,top,0,LED
+D3,LED_0603_1608Metric,144.3875mm,-88.4500mm,,,,,top,0,LED
+D4,LED_0603_1608Metric,144.4000mm,-90.0500mm,,,,,top,0,LED
+D5,LED_0603_1608Metric,144.4125mm,-85.2500mm,,,,,top,0,LED
+J1,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,143.4000mm,-95.1000mm,,,,,top,0,Conn_01x04_MountingPin
+J2,USB_C_Receptacle_HRO_TYPE-C-31-M-12,143.4000mm,-76.6400mm,,,,,top,180,USB_C_Receptacle_USB2.0
+R1,R_0402_1005Metric,141.6500mm,-82.9000mm,,,,,top,-90,5.1k
+R2,R_0402_1005Metric,143.9000mm,-82.9000mm,,,,,top,-90,5.1k
+R3,R_0402_1005Metric,146.8625mm,-86.8500mm,,,,,top,0,470R
+R4,R_0402_1005Metric,146.8625mm,-88.4500mm,,,,,top,0,470R
+R5,R_0402_1005Metric,146.8625mm,-90.0500mm,,,,,top,0,1k
+R6,R_0402_1005Metric,146.8625mm,-85.2500mm,,,,,top,0,10k
+U1,MSOP-10_3x3mm_P0.5mm,141.0000mm,-87.6500mm,,,,,top,-90,CH340E
